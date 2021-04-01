@@ -1,0 +1,31 @@
+.video {
+  margin-bottom: 40px;
+  width: 250px;
+}
+
+.video__thumbnail {
+  height: 126px;
+  width: 225px;
+}
+
+.video__info {
+  display: flex;
+  margin-top: 5px;
+  padding-right: 30px;
+}
+
+.video__text > h4 {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #ffffff;
+}
+
+.video__text > p {
+  margin-top: 5px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #dddddd;
+}
